@@ -30,7 +30,7 @@
     "@nestjs/common": "^6.5.3",
     "@types/qs": "^6.5.3",
     "@types/request": "^2.48.2",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.2"
   }
